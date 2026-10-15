@@ -1,2 +1,15 @@
-# del-rea-a-github.github.io
-Grupo de trabajo de Primaria: repositorios educativos, historia de la IA y prompts para generar recursos. Materiales con licencia CC BY-SA 4.0.
+# Repositorios y IA: del REA a GitHub
+
+**El prompt como potenciador para la generación de recursos educativos**
+
+Repositorio del grupo de trabajo de Educación Primaria, curso 2026-2027.
+
+Aquí se publican los materiales del grupo: rúbricas de evaluación de repositorios,
+actividades sobre la historia de la inteligencia artificial y recursos educativos
+creados a mano y con IA.
+
+Web del grupo: https://del-rea-a-github.github.io
+
+Materiales publicados con licencia
+[Creative Commons BY-SA 4.0]
+(https://creativecommons.org/licenses/by-sa/4.0/deed.es).
