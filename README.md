@@ -1,4 +1,4 @@
-# Repositorios y IA: del REA a GitHub
+# Repositorios e IA: del REA a GitHub
 
 **El prompt como potenciador para la generación de recursos educativos**
 
