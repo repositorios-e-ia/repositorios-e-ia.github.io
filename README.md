@@ -8,7 +8,7 @@ Aquí se publican los materiales del grupo: rúbricas de evaluación de reposito
 actividades sobre la historia de la inteligencia artificial y recursos educativos
 creados a mano y con IA.
 
-Web del grupo: https://del-rea-a-github.github.io
+Web del grupo: https://repositorios-e-ia.github.io
 
 Materiales publicados con licencia
 [Creative Commons BY-SA 4.0]
