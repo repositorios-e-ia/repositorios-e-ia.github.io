@@ -8,8 +8,7 @@ Aquí se publican los materiales del grupo: rúbricas de evaluación de reposito
 actividades sobre la historia de la inteligencia artificial y recursos educativos
 creados a mano y con IA.
 
-Web del grupo: https://repositorios-e-ia.github.io
+[Web del grupo](https://repositorios-e-ia.github.io)
 
 Materiales publicados con licencia
-[Creative Commons BY-SA 4.0]
-(https://creativecommons.org/licenses/by-sa/4.0/deed.es).
+[Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
